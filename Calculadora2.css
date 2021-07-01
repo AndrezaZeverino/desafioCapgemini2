@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(245, 242, 107);
+
+}
+
+#tudo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#btn {
+    border-radius: 10%;
+    color:rgb(245, 242, 107);
+    background-color: rgb(126, 128, 123);
+}
+
+input{
+    width: 150px;
+}
+
+.m-3{
+
+}
